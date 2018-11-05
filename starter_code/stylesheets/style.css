@@ -21,9 +21,7 @@ header {
   padding-top:25vh;
 }
 
-header img {
-  
-}
+header img {}
 
 nav ul {
   display:flex;
